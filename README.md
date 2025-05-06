@@ -42,12 +42,6 @@
 
 ---
 
-## 🐦 Últimos tweets
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/tobiager?label=Follow&style=social)](https://twitter.com/tobiager)
-
----
-
 ## 📫 Cómo contactarme
 
 [![Twitter](https://img.shields.io/badge/Twitter-@tobiager-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tobiager)
