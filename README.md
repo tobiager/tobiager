@@ -14,8 +14,8 @@
 
 - 🇦🇷 Argentina
 - 💻 Fullstack en construcción → **C++ | Java | PHP | HTML/CSS | SQL (básico)**
-- 🎮 Además metí mano en → **Bootstrap | CodeIgniter | Git/GitHub | UML | Ingeniería de Software**
 - 🎉 Me gusta salir de fiesta, tomar Jägermeister y hablar de River Plate
+- 🎮 Gamer, dev, futbolero y tuitero en mis ratos libres
 - 🧠 Siempre mejorando mis habilidades, aplicando lo que aprendo en proyectos reales y sumando experiencia
 
 ---
