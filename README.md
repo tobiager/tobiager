@@ -28,6 +28,14 @@
 
 ---
 
+## 🤝 Experiencia colaborando
+
+- Colaborador en proyectos de compañeros → desarrollo, solución de problemas y mejoras reales.
+- Ejemplo: [Repositorio de Juanro-kun](https://github.com/Juanro-kun/repositorio) → aportando como colaborador en el desarrollo.
+
+---
+
+
 ## 🛠️ Tecnologías que manejo
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
