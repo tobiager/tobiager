@@ -43,5 +43,10 @@
 ![Email](https://img.shields.io/badge/Email-Pronto%20disponible-lightgrey?style=flat-square)
 
 ---
+<p align="center">
+  <img src="river_escudo.png" alt="Escudo de River Plate" width="100"/>
+</p>
+
+<p align="center"><b>Hecho con ❤️ y pasión millonaria.</b></p>
 
 > Si no estoy programando... probablemente esté tuiteando sobre River o en algún lado de fiesta. Si estoy programando, igual.
