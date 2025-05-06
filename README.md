@@ -42,10 +42,6 @@
 [![Discord](https://img.shields.io/badge/Discord-tobiager-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 ![Email](https://img.shields.io/badge/Email-Pronto%20disponible-lightgrey?style=flat-square)
 
----
-## 🐦 Últimos tweets
-
-[![Tobiager's X (Twitter)](https://github-readme-twitter.gazf.vercel.app/api?id=tobiager&layout=wide&show_reply=off&show_retweet=off)](https://twitter.com/tobiager)
 
 ---
 
