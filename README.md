@@ -18,5 +18,5 @@
 
 ## 📫 Cómo contactarme
 - Twitter/X: [@tobiager](https://twitter.com/tobiager) 
-- Discord: `Tobias#1337`
+- Discord: `tobiager`
 - Email: tobiasorban00@gmail.com 
