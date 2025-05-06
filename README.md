@@ -54,7 +54,7 @@
   <img src="river.png" alt="Escudo de River Plate" width="100"/>
 </p>
 
-<p align="center"><b>Codeo, festejo goles y salgo de fiesta. Eso es todo lo que tenés que saber</b></p>
+<p align="center"><b>❤️🐔Codeo, festejo goles y salgo de fiesta. Eso es todo lo que tenés que saber</b></p>
 
 
 <!---
