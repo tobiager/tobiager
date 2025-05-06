@@ -54,11 +54,8 @@
   <img src="river.png" alt="Escudo de River Plate" width="100"/>
 </p>
 
-<p align="center"><b>Hecho con ❤️ y pasión millonaria.</b></p>
+<p align="center"><b>Codeo, festejo goles y salgo de fiesta. Eso es todo lo que tenés que saber</b></p>
 
----
-
-<p align="center">🎮❤️⚽️ Codeo, festejo goles y salgo de fiesta. Eso es todo lo que tenés que saber.</p>
 
 <!---
 33Tobias/33Tobias es un repo especial porque su README.md se muestra en tu perfil.
