@@ -39,7 +39,7 @@
 ## 📫 Contacto
 
 [![Twitter](https://img.shields.io/badge/-@tobiager-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tobiager)
-[![Discord](https://img.shields.io/badge/Discord-Tobias%231337-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-tobiager-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 ![Email](https://img.shields.io/badge/Email-Pronto%20disponible-lightgrey?style=flat-square)
 
 ---
