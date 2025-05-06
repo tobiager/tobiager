@@ -8,15 +8,15 @@
 
 ---
 
-# 👋 ¿Qué onda? Soy Tobias
+# 👋 ¿Qué onda? Soy Tobias (@33Tobias)
 
 ## 🚀 Sobre mí
 
 - 🇦🇷 Argentina
-- 💻 Fullstack en construcción → **C++ | Java | PHP | HTML/CSS**
+- 💻 Fullstack en construcción → **C++ | Java | PHP | HTML/CSS | SQL (básico)**
+- 🎮 Además metí mano en → **Bootstrap | CodeIgniter | Git/GitHub | UML | Ingeniería de Software**
 - 🎉 Me gusta salir de fiesta, tomar Jägermeister y hablar de River Plate
-- 🎮 Gamer, dev, futbolero y tuitero en mis ratos libres
-- 🧠 Siempre mejorando mis skills, aplicando lo que aprendo en proyectos reales y sumando experiencia
+- 🧠 Siempre mejorando mis habilidades, aplicando lo que aprendo en proyectos reales y sumando experiencia
 
 ---
 
@@ -28,20 +28,31 @@
 
 ---
 
-## 📈 Stats
+## 🛠️ Tecnologías que manejo
 
-[![Tobias' GitHub stats](https://github-readme-stats.vercel.app/api?username=33Tobias&show_icons=true&theme=radical)](https://github.com/33Tobias)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33Tobias&layout=compact&theme=radical)](https://github.com/33Tobias)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📫 Contacto
+## 🐦 Últimos tweets
 
-[![Twitter](https://img.shields.io/badge/-@tobiager-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tobiager)
-[![Discord](https://img.shields.io/badge/Discord-tobiager-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
-![Email](https://img.shields.io/badge/Email-Pronto%20disponible-lightgrey?style=flat-square)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tobiager?label=Follow&style=social)](https://twitter.com/tobiager)
 
+---
+
+## 📫 Cómo contactarme
+
+[![Twitter](https://img.shields.io/badge/Twitter-@tobiager-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tobiager)
+[![Discord](https://img.shields.io/badge/Discord-526276132920754186-5865F2?style=flat-square&logo=discord&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-tobiasorban00@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tobiasorban00@gmail.com)
 
 ---
 
@@ -51,4 +62,11 @@
 
 <p align="center"><b>Hecho con ❤️ y pasión millonaria.</b></p>
 
-> Si no estoy programando... probablemente esté tuiteando sobre River o en algún lado de fiesta. Si estoy programando, igual.
+---
+
+<p align="center">🎮❤️⚽️ Codeo, festejo goles y salgo de fiesta. Eso es todo lo que tenés que saber.</p>
+
+<!---
+33Tobias/33Tobias es un repo especial porque su README.md se muestra en tu perfil.
+--->
+
