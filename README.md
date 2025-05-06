@@ -42,14 +42,6 @@
 
 ---
 
-## 📫 Cómo contactarme
-
-[![Twitter](https://img.shields.io/badge/Twitter-@tobiager-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tobiager)
-[![Discord](https://img.shields.io/badge/Discord-526276132920754186-5865F2?style=flat-square&logo=discord&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-tobiasorban00@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tobiasorban00@gmail.com)
-
----
-
 <p align="center">
   <img src="river.png" alt="Escudo de River Plate" width="100"/>
 </p>
