@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mí
 - 🎓 Estudiante de **Licenciatura en Sistemas**
-- 💻 Programo principalmente en **Java**, **PHP**, **HTML/CSS**.
+- 💻 Programo principalmente en **Java**,**C++**, **PHP**, **HTML/CSS**.
 - 🧠 Siempre aprendiendo algo nuevo (actualmente metiéndome fuerte en **desarrollo web**)
 
 ## 🔭 Actualmente trabajando en
