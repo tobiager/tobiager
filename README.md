@@ -8,7 +8,7 @@
 
 ---
 
-# 👋 ¿Qué onda? Soy Tobias (@33Tobias)
+# 👋 ¿Qué onda? Soy Tobias 
 
 ## 🚀 Sobre mí
 
@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-  <img src="Logo_River_Plate.png" alt="Escudo de River Plate" width="100"/>
+  <img src="river.png" alt="Escudo de River Plate" width="100"/>
 </p>
 
 <p align="center"><b>Hecho con ❤️ y pasión millonaria.</b></p>
