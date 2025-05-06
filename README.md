@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @33Tobias
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 ¡Hola! Soy Tobias (a.k.a. @33Tobias)
 
-<!---
-33Tobias/33Tobias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Visitas al perfil](https://komarev.com/ghpvc/?username=33Tobias&color=blueviolet)
+
+## 🚀 Sobre mí
+- 🎓 Estudiante de **Licenciatura en Sistemas**
+- 💻 Programo principalmente en **Java**, **PHP**, **HTML/CSS**.
+- 🧠 Siempre aprendiendo algo nuevo (actualmente metiéndome fuerte en **desarrollo web**)
+
+## 🔭 Actualmente trabajando en
+- 📦 **Proyectos de E-commerce** (con CodeIgniter y PHP)
+- 🧙‍♂️ Una web temática de **Calabozos y Dragones** (proyecto personal + universitario)
+
+## 🤝 Buscando colaborar en
+- Proyectos de desarrollo web (PHP, Laravel, React)
+- Herramientas open source de productividad o dev
+- Side projects copados o creativos (si tenés una idea, escribime 👇)
+
+## 📫 Cómo contactarme
+- Twitter/X: [@tobiager](https://twitter.com/tobiager) 
+- Discord: `Tobias#1337`
+- Email: tobiasorban00@gmail.com 
