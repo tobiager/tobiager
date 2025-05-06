@@ -43,6 +43,12 @@
 ![Email](https://img.shields.io/badge/Email-Pronto%20disponible-lightgrey?style=flat-square)
 
 ---
+## 🐦 Últimos tweets
+
+[![Tobiager's X (Twitter)](https://github-readme-twitter.gazf.vercel.app/api?id=tobiager&layout=wide&show_reply=off&show_retweet=off)](https://twitter.com/tobiager)
+
+---
+
 <p align="center">
   <img src="Logo_River_Plate.png" alt="Escudo de River Plate" width="100"/>
 </p>
