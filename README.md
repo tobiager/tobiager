@@ -12,10 +12,6 @@
 
 ## 🚀 Sobre mí
 
-<p align="center">
-  <img src="jager.gif" alt="Jager bailando" width="150"/>
-</p>
-
 - 🇦🇷 Argentina
 - 💻 Fullstack en construcción → **C++ | Java | PHP | HTML/CSS | SQL (básico)**
 - 🎉 Me gusta salir de fiesta, tomar Jägermeister y hablar de River Plate
@@ -50,10 +46,13 @@
   <img src="river.png" alt="Escudo de River Plate" width="100"/>
 </p>
 
+<p align="center">
+  <img src="jager.gif" alt="Jager bailando" width="150"/>
+</p>
+
 <p align="center"><b>❤️🐔 Codeo, festejo goles y salgo de fiesta. Eso es todo lo que tenés que saber.</b></p>
 
 <!---
-33Tobias/33Tobias es un repo especial porque su README.md se muestra en tu perfil.
+33Tobias/Perfil es un repo especial porque su README.md se muestra en tu perfil.
 --->
-
 
