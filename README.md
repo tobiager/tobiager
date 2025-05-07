@@ -8,7 +8,7 @@
 
 ---
 
-<h1>👋 Who am I? I'm Tobias   <img src="jager.gif" alt="Jager Mini" width="60"/></h1>
+<h1>👋 What's up I'm Tobias   <img src="jager.gif" alt="Jager Mini" width="60"/></h1>
 
 ## 🚀 About Me
 
