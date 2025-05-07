@@ -1,5 +1,6 @@
 <p align="center">
   <img src="banner.png" alt="@33Tobias Banner" width="600"/>
+  <img src="jager.gif" alt="Jagermeister Time" width="200"/>
 </p>
 
 <p align="center">
@@ -8,7 +9,7 @@
 
 ---
 
-<h1>👋 ¿Qué onda? Soy Tobias <img src="jager1.gif" alt="Jager Mini" width="40"/></h1>
+# 👋 ¿Qué onda? Soy Tobias 
 
 ## 🚀 Sobre mí
 
@@ -46,13 +47,10 @@
   <img src="river.png" alt="Escudo de River Plate" width="100"/>
 </p>
 
-<p align="center">
-  <img src="jager.gif" alt="Jager bailando" width="150"/>
-</p>
+<p align="center"><b>❤️🐔Codeo, festejo goles y salgo de fiesta. Eso es todo lo que tenés que saber.</b></p>
 
-<p align="center"><b>❤️🐔 Codeo, festejo goles y salgo de fiesta. Eso es todo lo que tenés que saber.</b></p>
 
 <!---
-33Tobias/Perfil es un repo especial porque su README.md se muestra en tu perfil.
+33Tobias/33Tobias es un repo especial porque su README.md se muestra en tu perfil.
 --->
 
