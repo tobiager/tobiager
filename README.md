@@ -8,7 +8,7 @@
 
 ---
 
-<h1>👋 What's up I'm Tobias   <img src="jager.gif" alt="Jager Mini" width="60"/></h1>
+<h1>👋 What's up I'm Tobias </h1>
 
 ## 🚀 About Me
 
@@ -46,7 +46,7 @@
   <img src="river.png" alt="River Plate Logo" width="100"/>
 </p>
 
-<p align="center"><b>❤️🐔 I code, score goals and party hard. That's all you need to know.</b></p>
+<p align="center"><b>🎮❤️⚽️ I code, score goals and party. That’s all you need to know. </p>
 
 <!---
 33Tobias/Profile is a special repo because its README.md is shown on my profile.
