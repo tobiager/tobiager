@@ -1,35 +1,34 @@
 <p align="center">
   <img src="banner.png" alt="@33Tobias Banner" width="600"/>
-  <img src="jager.gif" alt="Jagermeister Time" width="200"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=33Tobias&color=red" alt="Visitas al perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=33Tobias&color=red" alt="Profile Views"/>
 </p>
 
 ---
 
-# 👋 ¿Qué onda? Soy Tobias 
+<h1>👋 Who am I? I'm Tobias <img src="jager1.gif" alt="Jager Mini" width="24"/></h1>
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-- 🇦🇷 Argentina
-- 💻 Fullstack en construcción → **C++ | Java | PHP | HTML/CSS | SQL (básico)**
-- 🎉 Me gusta salir de fiesta, tomar Jägermeister y hablar de River Plate
-- 🎮 Gamer, dev, futbolero y tuitero en mis ratos libres
-- 🧠 Siempre mejorando mis habilidades, aplicando lo que aprendo en proyectos reales y sumando experiencia
-
----
-
-## 🔥 Proyectos en los que estoy
-
-- 🛒 **E-commerce temático Dungeons & Dragons** (CodeIgniter + PHP + Bootstrap)
-- 🏥 **HospiTrack** - Sistema de gestión hospitalaria (Proyecto integrador universitario)
-- 💡 Ideas random que salen de la nada pero me divierten
+- 🇦🇷 From Argentina
+- 💻 Fullstack Developer in progress → **C++ | Java | PHP | HTML/CSS | SQL (basic)**
+- 🎉 I love partying, drinking Jägermeister and talking about River Plate
+- 🎮 Gamer, dev, football fan and occasional Twitter addict
+- 🧠 Always learning and improving by working on real-life projects and gaining experience
 
 ---
 
-## 🛠️ Tecnologías que manejo
+## 🔥 Projects I'm working on
+
+- 🛒 **Dungeons & Dragons Themed E-Commerce** (CodeIgniter + PHP + Bootstrap)
+- 🏥 **HospiTrack** - Hospital Management System (University project)
+- 💡 Random ideas that I enjoy bringing to life
+
+---
+
+## 🛠️ Technologies I use
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -44,13 +43,11 @@
 ---
 
 <p align="center">
-  <img src="river.png" alt="Escudo de River Plate" width="100"/>
+  <img src="river.png" alt="River Plate Logo" width="100"/>
 </p>
 
-<p align="center"><b>❤️🐔Codeo, festejo goles y salgo de fiesta. Eso es todo lo que tenés que saber.</b></p>
-
+<p align="center"><b>❤️🐔 I code, score goals and party hard. That's all you need to know.</b></p>
 
 <!---
-33Tobias/33Tobias es un repo especial porque su README.md se muestra en tu perfil.
+33Tobias/Profile is a special repo because its README.md is shown on my profile.
 --->
-
