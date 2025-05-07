@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="@33Tobias Banner" width="600"/>
+  <img src="banner.png" alt="@33Tobias Banner" width="1000"/>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-<h1>👋 Who am I? I'm Tobias <img src="jager.gif" alt="Jager Mini" width="24"/></h1>
+<h1>👋 Who am I? I'm Tobias   <img src="jager.gif" alt="Jager Mini" width="60"/></h1>
 
 ## 🚀 About Me
 
