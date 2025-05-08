@@ -44,7 +44,13 @@
 
 ---
 
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://33tobias.github.io/33Tobias/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://33tobias.github.io/33Tobias/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://33tobias.github.io/33Tobias/github-snake.svg" width="1000" />
+  </picture>
+</p>
 
 ---
 
