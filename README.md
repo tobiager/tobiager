@@ -46,7 +46,7 @@
   <img src="river.png" alt="River Plate Logo" width="100"/>
 </p>
 
-<p align="center"><b>🎮❤️⚽️ I code, score goals and party. That’s all you need to know. </p>
+<p align="center"><b>🎮❤️⚽️ I code, score goals and party. That’s all you need to know.. </p>
 
 <!---
 33Tobias/Profile is a special repo because its README.md is shown on my profile.
