@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 🇦🇷 From Argentina
-- 🎓 **Student of Computer Science (Licenciatura en Sistemas)** @ **UNNE - Universidad Nacional del Nordeste**  
+- 🎓 **Bachelor's student in information systems** @ **UNNE - Universidad Nacional del Nordeste**  
 - 📚 Currently in **3rd year**, always learning and improving
 - 💻 Fullstack Developer in progress → **C++ | Java | PHP | HTML/CSS | SQL (basic)**
 - 🎉 I love partying, drinking Jägermeister and talking about River Plate
