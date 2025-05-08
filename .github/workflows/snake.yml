@@ -1,10 +1,7 @@
 name: Generate Snake
 
 on:
-  # Ejecutar manualmente desde Actions
   workflow_dispatch:
-  
-  # Ejecutar automáticamente cada día a las 3 AM
   schedule:
     - cron: "0 3 * * *"
 
@@ -18,5 +15,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            github-snake.svg
+            github-snake-dark.svg?palette=github-dark
+          # ESTA ES LA CLAVE ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+          commit_branch: output
