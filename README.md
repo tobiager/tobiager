@@ -44,13 +44,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/33Tobias/33Tobias/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/33Tobias/33Tobias/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://github.com/33Tobias/33Tobias/blob/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
