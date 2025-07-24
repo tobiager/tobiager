@@ -8,7 +8,7 @@
 
 ---
 
-<h1 align="center">🎮💻 Tobias | Fullstack Dev & River Fanatic 🍻⚽</h1>
+<h1>👋 What's up I'm Tobias </h1>
 
 ## 🚀 About Me
 
