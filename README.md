@@ -24,7 +24,7 @@
 
 ## 🔥 Projects I'm working on
 
-- 🚗 [**Rama Automotores**](https://rama-automotores.vercel.app) – Buy & sell cars platform (Next.js + Tailwind + Supabase)
+- 🚗 [**Rama Automotores**](https://v0-rama-automotores-website.vercel.app/) – Buy & sell cars platform (Next.js + Tailwind + Supabase)
 - 🛒 **Dungeons & Dragons Themed E-Commerce** – CodeIgniter + PHP + Bootstrap
 - 🏥 **HospiTrack** – Hospital Management System (University project)
 - 💡 Random ideas that I enjoy bringing to life
