@@ -12,10 +12,9 @@
 ---
 
 <h1 align="center">
-  <img src="jagerlogo.gif" alt="Jägermeister logo" width="70" style="vertical-align:middle; margin-right:10px;" />
-  What's up I'm Tobias
+  <img src="jagerlogo.gif" alt="Jägermeister logo" width="70" style="vertical-align: middle; margin-right: 10px;" />
+  <span style="position: relative; bottom: 30px;">What's up I'm Tobias</span>
 </h1>
-
 
 ## 🚀 About Me
 
