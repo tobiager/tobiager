@@ -28,21 +28,21 @@
 ## 🚀 About Me
 
 - 🇦🇷 From Argentina
-- 🎓 **Bachelor's student in Information Systems** @ **UNNE - Universidad Nacional del Nordeste**
-- 📚 Currently in **3rd year**, always learning and improving
-- 💻 Fullstack Developer in progress → **C++ | Java | PHP | JS | HTML/CSS | SQL (basic)**
-- 🎉 I love partying, drinking Jägermeister and talking about River Plate
-- 🎮 Gamer, dev, football fan and occasional Twitter addict
-- 🧠 Growing through real-life projects and hands-on experience
+-  **Bachelor's student in Information Systems** @ **UNNE - Universidad Nacional del Nordeste**
+-  Currently in **3rd year**, always learning and improving
+-  Fullstack Developer in progress → **C++ | Java | PHP | JS | HTML/CSS | SQL (basic)**
+-  I love partying, drinking Jägermeister and talking about River Plate
+-  Gamer, dev, football fan and occasional Twitter addict
+-  Growing through real-life projects and hands-on experience
 
 ---
 
 ## 🔥 Projects I'm working on
 
-- 🚗 [**Rama Automotores**](https://v0-rama-automotores-website.vercel.app/) – Buy & sell cars platform (Next.js + Tailwind + Supabase)
-- 🛒 **Dungeons & Dragons Themed E-Commerce** – CodeIgniter + PHP + Bootstrap
-- 🏥 **HospiTrack** – Hospital Management System (University project)
-- 💡 Random ideas that I enjoy bringing to life
+-  [**Rama Automotores**](https://v0-rama-automotores-website.vercel.app/) – Buy & sell cars platform (Next.js + Tailwind + Supabase)
+-  **Dungeons & Dragons Themed E-Commerce** – CodeIgniter + PHP + Bootstrap
+-  **HospiTrack** – Hospital Management System (University project)
+-  Random ideas that I enjoy bringing to life
 
 ---
 
