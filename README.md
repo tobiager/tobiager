@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.tiktok.com/@gangster.pets/video/7503375650271612165">
-    <img src="banner.png" alt="@tobiager Banner" width="1200"/>
+    <img src="banner.png" alt="@tobiager Banner" width="1500"/>
   </a>
 </p>
 
