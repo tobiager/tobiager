@@ -84,10 +84,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobiager&theme=github_dark" width="80%" />
 </p>
 
+## ⏱️ GitHub Streak
 
-## ⏱️ Racha de GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tobiager&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=tobiager&theme=windows-dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
