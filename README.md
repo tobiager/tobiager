@@ -11,7 +11,10 @@
 
 ---
 
-<h1 align="center">👋 What's up I'm Tobias</h1>
+<h1 align="center">
+  <img src="jagerlogo.gif" alt="Jägermeister logo" width="40" style="vertical-align:middle; margin-right:10px;" />
+  What's up I'm Tobias
+</h1>
 
 
 ## 🚀 About Me
