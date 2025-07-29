@@ -11,18 +11,19 @@
 
 ---
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" cellspacing="0" cellpadding="0" style="border: 2px solid #3fcf8e; border-radius: 12px; padding: 12px; background-color: #1e1e1e; box-shadow: 0 0 10px rgba(63, 207, 142, 0.5);">
   <tr>
     <td>
       <a href="https://www.tiktok.com/@tobiager/photo/7511842834794810630">
-        <img src="jagerlogo.gif" alt="Jägermeister logo" width="100">
+        <img src="jagerlogo.gif" alt="Jägermeister logo" width="90" style="margin-right: 15px;" />
       </a>
     </td>
     <td>
-      <h1 style="margin: 10; padding: 10;">What's up I'm Tobias</h1>
+      <h1 style="margin: 10px; padding: 10px; color: white;">What's up I'm Tobias</h1>
     </td>
   </tr>
 </table>
+
 
 ## 🚀 About Me
 
