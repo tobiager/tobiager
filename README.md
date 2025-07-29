@@ -14,7 +14,7 @@
 <h1 align="center">
   👋 What's up I'm Tobias
   <a href="https://www.tiktok.com/@tobiager/photo/7511842834794810630?is_from_webapp=1&sender_device=pc">
-    <img src="shotjager.gif" alt="Jägermeister calling..." title="¿Pintó shot?" width="40" style="vertical-align:middle; margin-left:10px;" />
+    <img src="shotjagergif.gif" alt="Jägermeister calling..." title="¿Pintó shot?" width="40" style="vertical-align:middle; margin-left:10px;" />
   </a>
 </h1>
 
