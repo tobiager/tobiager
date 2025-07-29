@@ -67,29 +67,27 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=tobiager&show_icons=true&theme=github_dark&hide_border=true&title_color=7FFF00&icon_color=7FFF00&text_color=FFFFFF&bg_color=0d1117" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiager&layout=compact&theme=github_dark&hide_border=true&title_color=7FFF00&text_color=FFFFFF&bg_color=0d1117" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tobiager&theme=transparent&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiager&theme=transparent&hide_border=true&layout=compact&include_all_commits=false&count_private=false" width="40%" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobiager&theme=github_dark" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobiager&theme=transparent" width="90%" />
 </p>
 
 ## ⏱️ GitHub Streak
 
 <p align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=tobiager&theme=windows-dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tobiager&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=tobiager&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
 </p>
 
 ---
