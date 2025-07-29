@@ -87,10 +87,7 @@
 
 ## ⏱️ Racha de GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tobiager&theme=github-dark&hide_border=true&background=000000&ring=7FFF00&fire=7FFF00&currStreakNum=7FFF00&sideNums=7FFF00&currStreakLabel=7FFF00&sideLabels=7FFF00&dates=FFFFFF" />
-</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=tobiager&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 ---
 
 ## 🐍 GitHub Contribution Snake
