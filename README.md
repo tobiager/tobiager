@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="banner.png" alt="@tobiager Banner" width="1200"/>
+  <a href="https://www.tiktok.com/@gangster.pets/video/7503375650271612165">
+    <img src="banner.png" alt="@tobiager Banner" width="1200"/>
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=33Tobias&color=red" alt="Profile Views"/>
