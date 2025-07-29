@@ -11,14 +11,7 @@
 
 ---
 
-<h1 align="center">
-  👋 What's up I'm Tobias
-  <a href="https://www.tiktok.com/@tobiager/photo/7511842834794810630?is_from_webapp=1&sender_device=pc">
-    <img src="shotjagergif.gif" alt="Jägermeister calling..." title="¿Pintó shot?" width="40" style="vertical-align:middle; margin-left:10px;" />
-  </a>
-</h1>
-
-
+<h1 align="center">👋 What's up I'm Tobias</h1>
 
 
 ## 🚀 About Me
@@ -82,6 +75,16 @@
 </p>
 
 <p align="center"><b>🎮❤️⚽️ I code, score goals and party. That’s all you need to know. </b></p>
+
+<hr/>
+
+<p align="center">
+  <a href="https://www.tiktok.com/@tobiager/photo/7511842834794810630" target="_blank">
+    <img src="shotjagergif.gif" alt="Jägermeister shot" title="Thanks for stopping by... Cheers! 🍻" width="1000"/>
+  </a>
+</p>
+<p align="center"><b>Made it to the end? You earned a shot! 🥂</b></p>
+
 
 <!---
 33Tobias/Profile is a special repo because its README.md is shown on my profile.
