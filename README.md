@@ -65,11 +65,35 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=tobiager&show_icons=true&theme=github_dark&hide_border=true&title_color=7FFF00&icon_color=7FFF00&text_color=FFFFFF&bg_color=0d1117" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiager&layout=compact&theme=github_dark&hide_border=true&title_color=7FFF00&text_color=FFFFFF&bg_color=0d1117" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tobiager&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobiager&theme=github_dark" width="80%" />
 </p>
+
+
+## ⏱️ Racha de GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tobiager&theme=github-dark&hide_border=true&background=000000&ring=7FFF00&fire=7FFF00&currStreakNum=7FFF00&sideNums=7FFF00&currStreakLabel=7FFF00&sideLabels=7FFF00&dates=FFFFFF" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <picture>
