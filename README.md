@@ -118,8 +118,3 @@
   </a>
 </p>
 <p align="center"><b>Made it to the end? You earned a shot! 🥂</b></p>
-
-
-<!---
-33Tobias/Profile is a special repo because its README.md is shown on my profile.
---->
