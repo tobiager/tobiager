@@ -68,8 +68,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tobiager&theme=transparent&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiager&theme=transparent&hide_border=true&layout=compact&include_all_commits=false&count_private=false" width="36%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tobiager&theme=transparent&hide_border=true&show_icons=true&include_all_commits=false&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiager&theme=transparent&hide_border=true&layout=compact&include_all_commits=false&count_private=true" width="36%" />
 </p>
 
 <p align="center">
