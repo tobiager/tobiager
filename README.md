@@ -42,7 +42,6 @@
 -  [**Rama Automotores**](https://v0-rama-automotores-website.vercel.app/) – Buy & sell cars platform (Next.js + Tailwind + Supabase)
 -  [**My Portfolio**](https://v0-portafolio-tobiager.vercel.app/) – Portfolio site showcasing my projects, skills & contact info
 -  **Dungeons & Dragons Themed E-Commerce** – CodeIgniter + PHP + Bootstrap
--  **HospiTrack** – Hospital Management System (University project)
 -  Random ideas that I enjoy bringing to life
 
 ---
