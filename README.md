@@ -30,7 +30,7 @@
 - 🇦🇷 From Argentina
 -  **Bachelor's student in Information Systems** @ **UNNE - Universidad Nacional del Nordeste**
 -  Currently in **3rd year**, always learning and improving
--  Fullstack Developer in progress → **C++ | Java | PHP | JS | HTML/CSS | SQL (basic)**
+-  Fullstack Developer in progress
 -  I love partying, drinking Jägermeister and talking about River Plate
 -  Gamer, dev, football fan and occasional Twitter addict
 -  Growing through real-life projects and hands-on experience
