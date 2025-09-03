@@ -45,10 +45,9 @@
 
 ## 🔥 Projects I'm working on
 
--  [**Rama Automotores**](https://v0-rama-automotores-website.vercel.app/) – Buy & sell cars platform (Next.js + Tailwind + Supabase)
--  [**My Portfolio**](https://v0-portafolio-tobiager.vercel.app/) – Portfolio site showcasing my projects, skills & contact info
--  **Dungeons & Dragons Themed E-Commerce** – CodeIgniter + PHP + Bootstrap
--  Random ideas that I enjoy bringing to life
+- [**Rama Automotores**](https://v0-rama-automotores-website.vercel.app/) – Buy & sell cars platform (Next.js + TypeScript + Tailwind + Supabase)  
+- [**Erdus**](erdus-inky.vercel.app) – Universal ER diagram converter (ERDplus ⇄ SQL ⇄ Prisma ⇄ JSON Schema) powered by a strict IR  
+- Random ideas that I enjoy bringing to life
 
 ---
 
@@ -91,11 +90,25 @@
 
 ---
 
-### 🔝 Top Contributed Repo
+### ⭐ Featured Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=tobiager&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
+  <a href="https://github.com/tobiager/erdus">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=erdus&theme=transparent&hide_border=true" alt="erdus repo card"/>
+  </a>
+
+  <a href="https://github.com/tobiager/UNNE-LSI">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=UNNE-LSI&theme=transparent&hide_border=true" alt="UNNE-LSI repo card"/>
+  </a>
 </p>
+
+<details>
+  <summary><b>🔝 Top Contributed Repo</b></summary>
+  <p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=tobiager&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
+  </p>
+</details>
+
 
 ---
 
