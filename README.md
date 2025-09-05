@@ -94,11 +94,11 @@
 
 <p align="center">
   <a href="https://github.com/tobiager/erdus">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=erdus&theme=transparent&hide_border=true" alt="erdus repo card"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=erdus&theme=transparent&hide_border=true&v1" alt="erdus repo card"/>
   </a>
 
   <a href="https://github.com/tobiager/UNNE-LSI">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=UNNE-LSI&theme=transparent&hide_border=true" alt="UNNE-LSI repo card"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiager&repo=UNNE-LSI&theme=transparent&hide_border=true&v1" alt="UNNE-LSI repo card"/>
   </a>
 </p>
 
