@@ -25,7 +25,7 @@
 </table>
 
 
-## 🚀 About Me
+##  About Me
 
 - 🇦🇷 From Argentina
 -  **Bachelor's student in Information Systems** @ **UNNE - Universidad Nacional del Nordeste**
@@ -43,7 +43,7 @@
 
 ---
 
-## 🔥 Projects I'm working on
+##  Projects I'm working on
 
 - [**Rama Automotores**](https://v0-rama-automotores-website.vercel.app/) – Buy & sell cars platform (Next.js + TypeScript + Tailwind + Supabase)  
 - [**Erdus**](https://erdus-inky.vercel.app//) – Universal ER diagram converter (ERDplus ⇄ SQL ⇄ Prisma ⇄ JSON Schema) powered by a strict IR  
@@ -51,7 +51,7 @@
 
 ---
 
-## 🛠️ Technologies I use
+##  Technologies I use
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -71,7 +71,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tobiager&theme=transparent&hide_border=true&show_icons=true&include_all_commits=false&count_private=true" width="48%" />
@@ -82,7 +82,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobiager&theme=transparent" width="90%" />
 </p>
 
-## ⏱️ GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tobiager&theme=transparent&hide_border=true" />
@@ -90,7 +90,7 @@
 
 ---
 
-### ⭐ Featured Repositories
+###  Featured Repositories
 
 <p align="center">
   <a href="https://github.com/tobiager/erdus">
@@ -103,7 +103,7 @@
 </p>
 
 <details>
-  <summary><b>🔝 Top Contributed Repo</b></summary>
+  <summary><b> Top Contributed Repo</b></summary>
   <p align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=tobiager&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
   </p>
@@ -112,7 +112,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+##  GitHub Contribution Snake
 
 <p align="center">
   <picture>
