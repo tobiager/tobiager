@@ -49,8 +49,6 @@
 - [**Erdus**](https://erdus-inky.vercel.app//) – Universal ER diagram converter 
 - Random ideas that I enjoy bringing to life
 
-<iframe src="https://github.com/sponsors/tobiager/button" title="Sponsor tobiager" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-
 ---
 
 ##  Technologies I use
