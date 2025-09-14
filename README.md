@@ -45,8 +45,8 @@
 
 ##  Projects I'm working on
 
-- [**Rama Automotores**](https://v0-rama-automotores-website.vercel.app/) – Buy & sell cars platform (Next.js + TypeScript + Tailwind + Supabase)  
-- [**Erdus**](https://erdus-inky.vercel.app//) – Universal ER diagram converter (ERDplus ⇄ SQL ⇄ Prisma ⇄ JSON Schema) powered by a strict IR  
+- [**Rama Automotores**](https://v0-rama-automotores-website.vercel.app/) – Buy & sell cars platform 
+- [**Erdus**](https://erdus-inky.vercel.app//) – Universal ER diagram converter 
 - Random ideas that I enjoy bringing to life
 
 ---
