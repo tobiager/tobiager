@@ -133,8 +133,9 @@
 
 <hr/>
 
+https://github.com/user-attachments/assets/0ef3c8c1-a7d3-4ede-847f-79ba7f86b4c1
+
 <p align="center">
-  https://github.com/user-attachments/assets/0ef3c8c1-a7d3-4ede-847f-79ba7f86b4c1
   <a href="https://www.tiktok.com/@tobiager/photo/7511842834794810630" target="_blank">
     <img src="shotjagergif.gif" alt="Jägermeister shot" title="Thanks for stopping by... Cheers! 🍻" width="1000"/>
   </a>
