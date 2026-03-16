@@ -29,7 +29,7 @@
 
 - 🇦🇷 From Argentina
 -  **Bachelor's student in Information Systems** @ **UNNE - Universidad Nacional del Nordeste**
--  Currently in **3rd year**, always learning and improving
+-  Currently in **4th year**, always learning and improving
 -  Fullstack Developer in progress
 -  I love partying, drinking Jägermeister and talking about River Plate
 -  Gamer, dev, football fan and occasional Twitter addict
