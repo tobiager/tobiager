@@ -43,8 +43,7 @@
 
 ---
 
-##  Projects I'm working on
-
+##  Projects
 - [**Rama Automotores**](https://v0-rama-automotores-website.vercel.app/) – Buy & sell cars platform 
 - [**Erdus**](https://erdus-inky.vercel.app//) – Universal ER diagram converter 
 - Random ideas that I enjoy bringing to life
