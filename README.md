@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://www.tiktok.com/@gangster.pets/video/7503375650271612165">
     <img src="banner.png" alt="@tobiager Banner" width="1500"/>
   </a>
 </p>
@@ -14,7 +13,6 @@
 <table align="center" cellspacing="0" cellpadding="0" style="border: 2px solid #3fcf8e; border-radius: 12px; padding: 12px; background-color: #1e1e1e; box-shadow: 0 0 10px rgba(63, 207, 142, 0.5);">
   <tr>
     <td>
-      <a href="https://www.tiktok.com/@tobiager/photo/7511842834794810630">
         <img src="jagerlogo.gif" alt="Jägermeister logo" width="90" style="margin-right: 15px;" />
       </a>
     </td>
@@ -133,7 +131,6 @@
 <hr/>
 
 <p align="center">
-  <a href="https://www.tiktok.com/@tobiager/photo/7511842834794810630" target="_blank">
     <img src="shotjagergif.gif" alt="Jägermeister shot" title="Thanks for stopping by... Cheers! 🍻" width="1000"/>
   </a>
 </p>
