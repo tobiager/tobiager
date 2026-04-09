@@ -81,8 +81,14 @@
 
 ##  GitHub Streak
 
+<!-- comentario
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tobiager&theme=transparent&hide_border=true" />
+</p>
+-->
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=tobiager&theme=transparent&locale=es&short_numbers&hide_border=true"width="50%" />
 </p>
 
 ---
