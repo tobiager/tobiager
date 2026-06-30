@@ -29,22 +29,12 @@
 -  **Bachelor's student in Information Systems** @ **UNNE - Universidad Nacional del Nordeste**
 -  Currently in **4th year**, always learning and improving
 -  Fullstack Developer in progress
--  I love partying, drinking Jägermeister and talking about River Plate
--  Gamer, dev, football fan and occasional Twitter addict
--  Growing through real-life projects and hands-on experience
 
 <p align="center">
   <a href="https://tobiager.github.io/UNNE-LSI/estado/#eyJwbGFuIjoiMjAwOSIsInN0YXRlcyI6eyJhbGdvcml0bW9zLWVzdHJ1Y3R1cmFzLWkiOnsicyI6MiwibiI6IlByb21vY2lvbmFkYSBjb24gOSJ9LCJhbGdlYnJhIjp7InMiOjIsIm4iOiJGaW5hbCBjb24gNiJ9LCJhbGdvcml0bW9zLWVzdHJ1Y3R1cmFzLWlpIjp7InMiOjIsIm4iOiJQcm9tb2Npb25hZGEgY29uIDgifSwibG9naWNhLW1hdGVtYXRpY2EtY29tcHV0YWNpb25hbCI6eyJzIjoyLCJuIjoiRmluYWwgY29uIDkifSwic2lzdGVtYXMteS1vcmdhbml6YWNpb25lcyI6eyJzIjoyLCJuIjoiUHJvbW9jaW9uYWRhIGNvbiA3In0sInBhcmFkaWdtYXMteS1sZW5ndWFqZXMiOnsicyI6MiwibiI6IkZpbmFsIGNvbiA2In0sImFycXVpdGVjdHVyYS15LW9yZ2FuaXphY2lvbi1kZS1jb21wdXRhZG9yYXMiOnsicyI6MiwibiI6IlByb21vY2lvbmFkYSBjb24gOSJ9LCJjYWxjdWxvLWRpZmVyZW5jaWFsLWUtaW50ZWdyYWwiOnsicyI6MSwibiI6IiJ9LCJwb28iOnsicyI6MiwibiI6IkZpbmFsIGNvbiA3In0sInNpc3RlbWFzLW9wZXJhdGl2b3MiOnsicyI6MiwibiI6IkZpbmFsIGNvbiA3In0sImFkbWluaXN0cmFjaW9uLXktZ2VzdGlvbi1kZS1vcmdhbml6YWNpb25lcyI6eyJzIjoyLCJuIjoiRmluYWwgY29uIDgifSwiY29tdW5pY2FjaW9uZXMtZGUtZGF0b3MiOnsicyI6MiwibiI6IlByb21vY2lvbmFkYSBjb24gOSJ9LCJpbmdlbmllcmlhLWRlLXNvZnR3YXJlLWkiOnsicyI6MSwibiI6IiJ9LCJ0YWxsZXItZGUtcHJvZ3JhbWFjaW9uLWkiOnsicyI6MiwibiI6IlByb21vY2lvbmFkYSBjb24gOSJ9LCJwcm9iYWJpbGlkYWQteS1lc3RhZGlzdGljYSI6eyJzIjowLCJuIjoiIn0sInRhbGxlci1kZS1wcm9ncmFtYWNpb24taWkiOnsicyI6MSwibiI6IlByb21vY2lvbmFkYSBjb24gMTAifSwiYmFzZS1kZS1kYXRvcy1pIjp7InMiOjEsIm4iOiJQcm9tb2Npb25hZGEgY29uIDgifSwiaW5nZW5pZXJpYS1kZS1zb2Z0d2FyZS1paSI6eyJzIjozLCJuIjoiIn0sImVjb25vbWlhLWFwbGljYWRhIjp7InMiOjMsIm4iOiIifX0sIm5hbWUiOiJUb2JpYXMgT3JiYW4ifQ==">
     <img src="https://raw.githubusercontent.com/tobiager/UNNE-LSI/main/assets/badges/4to-año.PNG" alt="LSI — 4to Año" width="200"/>
   </a>
 </p>
-
----
-
-##  Projects
-- [**Rama Automotores**](https://v0-rama-automotores-website.vercel.app/) – Buy & sell cars platform 
-- [**Erdus**](https://erdus-inky.vercel.app//) – Universal ER diagram converter 
-- Random ideas that I enjoy bringing to life
 
 ---
 
@@ -105,14 +95,6 @@
   </a>
 </p>
 
-<details>
-  <summary><b> Top Contributed Repo</b></summary>
-  <p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=tobiager&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
-  </p>
-</details>
-
-
 ---
 
 ##  GitHub Contribution Snake
@@ -133,11 +115,3 @@
 </p>
 
 <p align="center"><b>🎮❤️⚽️ I code, score goals and party. That’s all you need to know. </b></p>
-
-<hr/>
-
-<p align="center">
-    <img src="shotjagergif.gif" alt="Jägermeister shot" title="Thanks for stopping by... Cheers! 🍻" width="1000"/>
-  </a>
-</p>
-<p align="center"><b>Made it to the end? You earned a shot! 🥂</b></p>
