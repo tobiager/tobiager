@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobiager&theme=transparent" width="90%" />
+  <img src="./profile-summary-card-output/transparent/0-profile-details.svg" width="90%" />
 </p>
 
 ##  GitHub Streak
