@@ -65,7 +65,9 @@
 <img alt="Tobiager's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tobiager&theme=transparent&hide_border=true&layout=compact&count_private=true&langs_count=10&exclude_repo=UNNE-LSI,github-readme-stats" width="34%"/></a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tobiager&bg_color=0d1117&color=007bff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobiager&theme=transparent" width="90%" />
+</p>
 
 ##  GitHub Streak
 
