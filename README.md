@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://transfergit.com/tobiager">
-    <img src="https://transfergit.com/api/og/tobiager/readme" alt="TransferGit README · Full" width="1000" />
+    <img src="https://transfergit.com/api/og/tobiager/readme?v=1" alt="TransferGit README - Full" width="1000" />
   </a>
 </p>
 
