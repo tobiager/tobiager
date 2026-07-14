@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://transfergit.com/tobiager">
-    <img src="https://transfergit.com/api/og/tobiager/readme" alt="TransferGit README · Full" width="1000" />
-  </a>
-</p>
+
+[![Transfergit card](https://transfergit.com/api/og/tobiager/readme)](https://transfergit.com/tobiager)
 
 <p align="center">
     <img src="banner.png" alt="@tobiager Banner" width="1500"/>
