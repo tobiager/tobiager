@@ -115,4 +115,8 @@
 
 <p align="center"><b>🎮❤️⚽️ I code, score goals and party. That’s all you need to know. </b></p>
 
-[![TransferGit Card](https://www.transfergit.com/api/og/tobiager/readme)](https://www.transfergit.com/tobiager)
+<p align="center">
+  <a href="https://www.transfergit.com/torvalds">
+    <img src="https://www.transfergit.com/api/og/torvalds/readme" alt="TransferGit README · Full" width="500" />
+  </a>
+</p>
