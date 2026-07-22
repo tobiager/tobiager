@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=33Tobias&color=red" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=33Tobias&color=000000" alt="Profile Views"/>
 </p>
 
 ---
